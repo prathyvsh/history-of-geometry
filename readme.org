@@ -24,6 +24,8 @@ Gauss anticipated the results by Lobachevsky but didn’t publish them.
 
 * Russell (1872 – 1970)
 
+*** [[https://ncatlab.org/nlab/show/An+Essay+on+the+Foundations+of+Geometry][Essay on the Foundations of Geometry (1897)]]
+
 * Hilbert
 
 ** Books
