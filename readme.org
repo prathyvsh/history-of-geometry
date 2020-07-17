@@ -28,7 +28,11 @@ Gauss anticipated the results by Lobachevsky but didn’t publish them.
 
 * Moritz Pasch (1843 – 1930)
 
-Pioneer of non-Archimedean geometry
+Pioneer of non-Archimedean geometry.
+
+Made explicit many tacit assumptions in Euclid’s work.
+
+Influenced Peano, Hilbert, Mario Pieri, and Alessandro Padoa.
 
 * Giuseppe Veronese (1854 – 1917)
 
