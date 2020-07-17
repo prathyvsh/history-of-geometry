@@ -1,0 +1,32 @@
+* History of Geometry
+
+* Euclid (~ 300 B.C.)
+
+** Elements
+
+*** Editions
+
+**** Robert Simon
+**** Isaac Todhunter
+**** [[http://www.math.ubc.ca/~cass/Euclid/byrne.html][Oliver Byrne]]
+
+* Descartes (1596 – 1650)
+
+** La Géométrie (1637)
+
+* Gauss (1777 – 1855)
+
+Gauss anticipated the results by Lobachevsky but didn’t publish them.
+
+* Lobachevsky (1792 – 1856)
+
+* Berhard Riemann (1826 – 1866)
+
+* Russell (1872 – 1970)
+
+* Hilbert
+
+** Books
+
+* Non-Euclidean Revolution (2008)
+https://www.springer.com/gp/book/9780817647827
