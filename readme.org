@@ -10,6 +10,10 @@
 **** Isaac Todhunter
 **** [[http://www.math.ubc.ca/~cass/Euclid/byrne.html][Oliver Byrne]]
 
+* Archimedes
+
+** Archimedian Axiom
+
 * Descartes (1596 – 1650)
 
 ** La Géométrie (1637)
@@ -21,6 +25,10 @@ Gauss anticipated the results by Lobachevsky but didn’t publish them.
 * Lobachevsky (1792 – 1856)
 
 * Berhard Riemann (1826 – 1866)
+
+* Giuseppe Veronese (1854 – 1917)
+
+Pioneer of non-Archimedean geometry
 
 * Russell (1872 – 1970)
 
